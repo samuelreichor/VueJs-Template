@@ -16,8 +16,8 @@ module.exports = {
     secondary: {
         DEFAULT: '#ff49db',
     },
-    error: {
-        DEFAULT: '#ff49db',
+    gray: {
+        DEFAULT: '#808080',
     },
     success: {
         DEFAULT: '#ff49db',

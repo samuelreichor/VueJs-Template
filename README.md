@@ -13,6 +13,6 @@ We are using Tailwind v3.2.4. (no purgcss required) with @tailwindcss/aspect-rat
 
 Ferdi is a flexible component creation helper, it helps you to stay consistent in your component style and reduces the time required to create new components.
 
-To make a file in src/_components/*/*.*** just type ferdi *name of Component* --vue -c
+øTo make a file in src/_components/*/*.*** just type ferdi *name of Component* --vue -c
 
 For more Information checkout [Ferdi](https://github.com/martinherweg/ferdi).
